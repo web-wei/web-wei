@@ -16,12 +16,15 @@
 
 ## 🚀 Featured projects
 
+### [Crypto Market Dashboard](https://github.com/web-wei/crypto-market-dashboard)
+React dashboard for the top crypto markets — live prices, 24h change, 7-day sparklines, and a watchlist saved in your browser. Ships with an optional Node/Express caching proxy.
+`React 18` · `Vite` · `Node/Express` · `CoinGecko API`
+🔗 [Live demo](https://web-wei.github.io/crypto-market-dashboard/)
+
 ### [ETH Wallet Dashboard](https://github.com/web-wei/eth-wallet-dashboard)
 Paste any Ethereum address or ENS name → see ETH & ERC-20 balances priced live in USD. Zero backend, deploys anywhere static.
 `ethers.js v6` · `ES modules` · `CoinGecko API` · `responsive UI`
 🔗 [Live demo](https://web-wei.github.io/eth-wallet-dashboard/)
-
-<!-- 完成第二个作品后在此追加，比如一个 React + Node 全栈小应用 -->
 
 ## 🧰 What I can do for you
 
