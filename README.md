@@ -16,6 +16,11 @@
 
 ## 🚀 Featured projects
 
+### [Invoice Generator](https://github.com/web-wei/invoice-generator)
+Create a professional invoice in the browser and save it as PDF — live preview, multi-currency totals, auto-saved locally. A practical business tool, 100% client-side.
+`React 18` · `Vite` · `print-to-PDF` · `localStorage`
+🔗 [Live demo](https://web-wei.github.io/invoice-generator/)
+
 ### [Crypto Market Dashboard](https://github.com/web-wei/crypto-market-dashboard)
 React dashboard for the top crypto markets — live prices, 24h change, 7-day sparklines, and a watchlist saved in your browser. Ships with an optional Node/Express caching proxy.
 `React 18` · `Vite` · `Node/Express` · `CoinGecko API`
